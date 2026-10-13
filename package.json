@@ -6,7 +6,7 @@
   "main": "src/index.tsx",
   "dependencies": {
     "@types/lodash-es": "4.17.3",
-    "lodash-es": "4.17.15",
+    "lodash-es": "4.17.21",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-fps-stats": "0.1.2",
